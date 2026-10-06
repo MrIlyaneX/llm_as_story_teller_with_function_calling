@@ -53,7 +53,7 @@ NPC могут действовать для достижения собстве
 | [PIPPA_RU](https://huggingface.co/datasets/IlyaGusev/pippa_ru)                      | То же по-русски, нужно фильтровать                     | смешанное     |
 | [JerichoWorld](https://github.com/JerichoWorld/JerichoWorld)                        | json описания сцен, переходов и действий               | игры          |
 | [DAGGER](https://www.cis.upenn.edu/~ccb/publications/dagger.pdf)                    | Генерация описаний и json                              | синтетика     |
-| [FIREBALL]([https://www.cis.upenn.edu/~ccb/publications/dagger.pdf](https://github.com/zhudotexe/FIREBALL.git))                    | действия игрока -> результат                              | игры     |
+| [FIREBALL](https://github.com/zhudotexe/FIREBALL.git)                               | действия игрока -> результат                              | игры     |
 
 Работы в схожем направлении:
 
