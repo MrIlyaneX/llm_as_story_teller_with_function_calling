@@ -54,6 +54,7 @@ NPC могут действовать для достижения собстве
 | [JerichoWorld](https://github.com/JerichoWorld/JerichoWorld)                        | json описания сцен, переходов и действий               | игры          |
 | [DAGGER](https://www.cis.upenn.edu/~ccb/publications/dagger.pdf)                    | Генерация описаний и json                              | синтетика     |
 | [FIREBALL](https://github.com/zhudotexe/FIREBALL.git)                               | действия игрока -> результат                           | люди          |
+| [ROLEPLAY-AI](https://github.com/bjoern-buettner/roleplay-ai.git)                   | генерация описаний локаций и реакций на действия игрока| люди          |
 
 Работы в схожем направлении:
 
